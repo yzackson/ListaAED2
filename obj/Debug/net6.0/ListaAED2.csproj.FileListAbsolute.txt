@@ -1,0 +1,15 @@
+C:\Dev\Faculdade\ListaAED2\obj\Debug\net6.0\ListaAED2.csproj.AssemblyReference.cache
+C:\Dev\Faculdade\ListaAED2\obj\Debug\net6.0\ListaAED2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Faculdade\ListaAED2\obj\Debug\net6.0\ListaAED2.AssemblyInfoInputs.cache
+C:\Dev\Faculdade\ListaAED2\obj\Debug\net6.0\ListaAED2.AssemblyInfo.cs
+C:\Dev\Faculdade\ListaAED2\obj\Debug\net6.0\ListaAED2.csproj.CoreCompileInputs.cache
+C:\Dev\Faculdade\ListaAED2\bin\Debug\net6.0\ListaAED2.exe
+C:\Dev\Faculdade\ListaAED2\bin\Debug\net6.0\ListaAED2.deps.json
+C:\Dev\Faculdade\ListaAED2\bin\Debug\net6.0\ListaAED2.runtimeconfig.json
+C:\Dev\Faculdade\ListaAED2\bin\Debug\net6.0\ListaAED2.dll
+C:\Dev\Faculdade\ListaAED2\bin\Debug\net6.0\ListaAED2.pdb
+C:\Dev\Faculdade\ListaAED2\obj\Debug\net6.0\ListaAED2.dll
+C:\Dev\Faculdade\ListaAED2\obj\Debug\net6.0\refint\ListaAED2.dll
+C:\Dev\Faculdade\ListaAED2\obj\Debug\net6.0\ListaAED2.pdb
+C:\Dev\Faculdade\ListaAED2\obj\Debug\net6.0\ListaAED2.genruntimeconfig.cache
+C:\Dev\Faculdade\ListaAED2\obj\Debug\net6.0\ref\ListaAED2.dll
